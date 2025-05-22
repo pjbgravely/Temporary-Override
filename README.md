@@ -1,1 +1,1 @@
-Recreates the temporary override I have seen in Niagara. Select the value that you want and selsct the time for override. Cancel at any time. This prevents somone from perminatly overriding essental input/outputs. # Temporary-Override
+Recreates the temporary override I have seen in Niagara. Select the value that you want and select the time for override. Cancel at any time. This prevents somone from perminatly overriding essental input/outputs. # Temporary-Override
